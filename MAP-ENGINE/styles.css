@@ -1,0 +1,45 @@
+:root { --sidebar-w: 350px; }
+
+body { margin: 0; display: flex; height: 100vh; font-family: 'Cinzel', serif; }
+
+/* The Flexbox Layout: Map takes the rest of the space */
+#sidebar { 
+  width: var(--sidebar-w); 
+  background: #f4e4c1; 
+  border-right: 3px ridge #4a2511; 
+  z-index: 10;
+}
+
+#viewport { flex-grow: 1; position: relative; background: #000; }
+#map { height: 100%; width: 100%; }
+
+/* THE ARES-PARCHMENT FILTER */
+.leaflet-tile-pane {
+  filter: sepia(0.7) contrast(1.3) brightness(0.6) saturate(0.8);
+}
+
+/* Character Chips */
+.character-chip {
+  border: 2px solid gold;
+  border-radius: 50%;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.5);
+  transition: transform 0.2s;
+}/* This targets the actual map tiles and ages them 250 years */
+.leaflet-tile-pane {
+    filter: sepia(0.6) contrast(1.2) brightness(0.7) saturate(0.8) hue-rotate(-10deg);
+}
+
+/* Add a subtle paper grain overlay so the satellite isn't "flat" */
+#map::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url('https://www.transparenttextures.com/patterns/bound-variables.png');
+    mix-blend-mode: multiply;
+    opacity: 0.3;
+    pointer-events: none;
+    z-index: 500;
+}

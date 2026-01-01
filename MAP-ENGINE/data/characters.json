@@ -1,0 +1,331 @@
+[
+  {
+    "_id": {
+      "$oid": "6956c8c55648a6dce9f6fb73"
+    },
+    "userId": {
+      "$oid": "691f08ef96b2af2c7f0a183e"
+    },
+    "name": "George Washington",
+    "slug": "george-washington-58cf7",
+    "class": "Paladin",
+    "race": "Human",
+    "level": 12,
+    "alignment": "Neutral Good",
+    "icon": "https://statsheet-cdn.b-cdn.net/images/cf30430c8f8dc04321208a50f8d05e3660c4f566271bda9d3f7f6c70af8d57c2.png",
+    "gallery": [
+      "https://statsheet-cdn.b-cdn.net/images/cf30430c8f8dc04321208a50f8d05e3660c4f566271bda9d3f7f6c70af8d57c2.png",
+      "https://statsheet-cdn.b-cdn.net/images/3636725b-02d6-4ade-8b5f-aa5c117025e4.png",
+      "https://statsheet-cdn.b-cdn.net/images/2e1c3813-dd23-4eba-9a6f-6d5f48fa715c.png",
+      "https://statsheet-cdn.b-cdn.net/images/f871fb2c-d642-4d9e-a1c1-5907a9fa087b.png"
+    ],
+    "profile": {
+      "backstory": "During the Crossing of the Delaware, George Washington, at 44 years old, struggled to keep the Continental Army from dissolving during the 'Times that try men's souls.' His leadership was pivotal in maintaining morale and unity.It is the dead of winter. The enlistments expire in days.",
+      "behavior": "You lead from the front, asking your scouts (the party) for precise details before committing troops. In combat, you use 'Aura of Protection' to keep your men's morale high.You speak with the weight of a nation on your shoulders. You are brief, formal, but deeply concerned for your men. You refer to the party as 'Soldiers' or 'Friends of Liberty.' He says to party \"It is the dead of winter. The enlistments expire in days. If we do not strike Trenton now, the Revolution dies. I am sending you across the river ahead of the main force to silence the Hessian sentries.\"",
+      "personality": "Stoic"
+    },
+    "attributes": {
+      "str": 16,
+      "dex": 12,
+      "con": 14,
+      "int": 13,
+      "wis": 15,
+      "cha": 18
+    },
+    "hp": {
+      "current": 87,
+      "max": 87
+    },
+    "ac": 18,
+    "initiative": 1,
+    "state": "Resolute",
+    "isPublic": false,
+    "temporaryModifiers": [],
+    "passiveTraits": [
+      {
+        "traitId": {
+          "$oid": "6956c8265648a6dce9f6fadf"
+        },
+        "name": "Divine Health",
+        "description": "A quiet glow clings to your spirit, turning back rot and contagion before they take hold. Even foul magic struggles to find purchase. Allies often draw courage from your steady presence.",
+        "summary": "Sacred vigor wards off sickness and miasma, keeping you hale in cursed places.",
+        "icon": "https://statsheet-cdn.b-cdn.net/images/runware-1767295014282.png"
+      },
+      {
+        "traitId": {
+          "$oid": "6956c82e5648a6dce9f6fae7"
+        },
+        "name": "Aura of Protection",
+        "description": "Your presence projects a soft, warding stillness that subtly shifts fortune toward those within arm’s reach. Allies feel danger moments before it strikes, gaining a flicker of extra resilience.",
+        "summary": "A calm, unseen force cushions nearby allies from harm, sharpening reflexes and steadying nerves.",
+        "icon": "https://statsheet-cdn.b-cdn.net/images/runware-1767295022851.png"
+      },
+      {
+        "traitId": {
+          "$oid": "6956c8395648a6dce9f6faef"
+        },
+        "name": "Turn the Tide",
+        "description": "Whenever turmoil breaks around you, allies within reach feel a surge of inner steadiness, gaining a small buffer of resolve. Your quiet certainty becomes their shield. Even dire moments slow when you stand firm.",
+        "summary": "Your calm presence anchors allies, granting them brief resolve when chaos erupts.",
+        "icon": "https://statsheet-cdn.b-cdn.net/images/runware-1767295033495.png"
+      },
+      {
+        "traitId": {
+          "$oid": "6956c8425648a6dce9f6faf7"
+        },
+        "name": "Unyielding Spirit",
+        "description": "Your mind feels like hammered iron, granting small bursts of clarity when danger looms. Once per scene, you may steady yourself to reduce a setback or resist mental strain. Others can sense your quiet, immovable confidence.",
+        "summary": "Your steady heart shrugs off peril and doubt.",
+        "icon": "https://statsheet-cdn.b-cdn.net/images/runware-1767295042825.png"
+      },
+      {
+        "traitId": {
+          "$oid": "6928da435648a6dce9f6e0eb"
+        },
+        "name": "Deity",
+        "description": "You carry a calm, ever-watchful presence, as if some ancient pact urges you to stand firm. Allies sense safety near you, while foes find their ambushes faltering. This vigilance rarely wavers, even in exhaustion.",
+        "summary": "An unshakable sense of duty that keeps you alert, steady, and ready to guard others when danger lurks.",
+        "icon": "https://statsheet-cdn.b-cdn.net/images/runware-1764284995130.png"
+      },
+      {
+        "traitId": {
+          "$oid": "69504a685648a6dce9f6f214"
+        },
+        "name": "Spell Caster Bonus",
+        "description": "An unseen whisper steadies your hand and clarifies incantations, making minor spells strike truer and resonate farther. Allies sometimes feel the hush before your magic flares. Few notice the whisper’s source—and fewer dare ask.",
+        "summary": "Your presence sharpens nearby magic, granting uncanny accuracy to subtle spells.",
+        "icon": "https://statsheet-cdn.b-cdn.net/images/runware-1766869608060.png"
+      },
+      {
+        "traitId": {
+          "$oid": "6956c84b5648a6dce9f6fb01"
+        },
+        "name": "Symbol",
+        "description": "Your presence carries a subtle resonance of long‑won freedom, lending courage to companions and drawing wary attention from oppressive forces. Those nearby feel history pressing at their backs.",
+        "summary": "A quiet aura of rebellion that heartens allies and unsettles tyrants.",
+        "icon": "https://statsheet-cdn.b-cdn.net/images/runware-1767295051117.png"
+      },
+      {
+        "traitId": {
+          "$oid": "6956c8545648a6dce9f6fb09"
+        },
+        "name": "Mount",
+        "description": "You’re never truly alone—your seasoned companion pads beside you, sensing danger and easing long journeys. Its presence grants subtle confidence and softens the harshness of the road.",
+        "summary": "A loyal beast follows you everywhere, offering steady travel and quiet vigilance.",
+        "icon": "https://statsheet-cdn.b-cdn.net/images/runware-1767295060676.png"
+      }
+    ],
+    "feats": [
+      {
+        "featId": {
+          "$oid": "6956c85d5648a6dce9f6fb11"
+        },
+        "name": "Lay on Hands",
+        "description": "You carry a reservoir of luminous vitality that flares to life when you lay your hand upon an injured creature. Once per rest, you may release a portion of this inner radiance to restore health, purge minor ailments, or stabilize a fading ally. The more dire the need, the brighter your spark burns—though drawing too deeply leaves you momentarily light‑headed and warm to the touch.",
+        "summary": "Channel a stored reserve of life‑energy to mend wounds with a touch.",
+        "icon": "https://statsheet-cdn.b-cdn.net/images/runware-1767295069159.png"
+      },
+      {
+        "featId": {
+          "$oid": "6956c8665648a6dce9f6fb19"
+        },
+        "name": "Divine Smite",
+        "description": "You call down a shard of star-fire to lash your weapon strike with blistering brilliance. When you commit to the blow, the attack erupts in radiant power that scars both flesh and spirit, leaving foes dazzled by the afterimage. Creatures struck often feel as though the heavens themselves have judged them.",
+        "summary": "Imbue a weapon blow with searing celestial force.",
+        "icon": "https://statsheet-cdn.b-cdn.net/images/runware-1767295078363.png"
+      },
+      {
+        "featId": {
+          "$oid": "6956c86e5648a6dce9f6fb21"
+        },
+        "name": "Compelled Duel",
+        "description": "You unleash a resonant battle cry or striking gesture that compels a chosen foe to focus on you above all others. For a short time, their attacks and movement skew toward engaging you directly, as though unable to shake your daring provocation. While the effect lasts, you gain a subtle insight into their intent, allowing you to anticipate their next move.",
+        "summary": "You draw an enemy’s attention with a bold challenge they can scarcely ignore.",
+        "icon": "https://statsheet-cdn.b-cdn.net/images/runware-1767295086445.png"
+      },
+      {
+        "featId": {
+          "$oid": "6956c8775648a6dce9f6fb29"
+        },
+        "name": "Champion Challenge",
+        "description": "You utter a radiant oath that flares like a beacon, marking an enemy’s spirit and daring them to confront you. The target feels an intangible pull, finding it difficult to ignore your presence or redirect their aggression. While the vow holds, your stance sharpens, granting you poise and clarity against their strikes.",
+        "summary": "You draw hostile eyes with a blazing vow that compels foes to face you directly.",
+        "icon": "https://statsheet-cdn.b-cdn.net/images/runware-1767295095593.png"
+      },
+      {
+        "featId": {
+          "$oid": "6956c87f5648a6dce9f6fb31"
+        },
+        "name": "Divine Allegiance",
+        "description": "You project a protective aura that snaps into place the moment an ally is threatened. When a nearby companion is targeted by an attack or harmful effect, you may shift the danger onto yourself, drawing the blow or curse with supernatural resolve. This transfer leaves a faint shimmer in the air as though your will alone has bent fate’s trajectory.",
+        "summary": "Interpose your spirit as a shield to spare an ally from harm.",
+        "icon": "https://statsheet-cdn.b-cdn.net/images/runware-1767295103522.png"
+      },
+      {
+        "featId": {
+          "$oid": "6956c8895648a6dce9f6fb39"
+        },
+        "name": "Exalted Champion",
+        "description": "You channel the first light of day into your presence, causing your weapon or voice to shine with subtle brilliance. Once per conflict, when you strike an enemy or raise a rallying cry, nearby allies gain a brief surge of courage, granting them a small bonus to their next action. Enemies sensitive to light or hope hesitate for a heartbeat, giving you a momentary edge. The dawn’s glow lingers on you until the encounter ends.",
+        "summary": "You fight with radiant conviction, bolstering allies as your strikes blaze with renewed purpose.",
+        "icon": "https://statsheet-cdn.b-cdn.net/images/runware-1767295113196.png"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Athletics",
+        "modifier": 7,
+        "proficient": true,
+        "_id": {
+          "$oid": "6956c8c55648a6dce9f6fb74"
+        }
+      },
+      {
+        "name": "Persuasion",
+        "modifier": 8,
+        "proficient": true,
+        "_id": {
+          "$oid": "6956c8c55648a6dce9f6fb75"
+        }
+      },
+      {
+        "name": "Intimidation",
+        "modifier": 8,
+        "proficient": true,
+        "_id": {
+          "$oid": "6956c8c55648a6dce9f6fb76"
+        }
+      },
+      {
+        "name": "History",
+        "modifier": 5,
+        "proficient": false,
+        "_id": {
+          "$oid": "6956c8c55648a6dce9f6fb77"
+        }
+      },
+      {
+        "name": "Perception",
+        "modifier": 6,
+        "proficient": false,
+        "_id": {
+          "$oid": "6956c8c55648a6dce9f6fb78"
+        }
+      }
+    ],
+    "abilities": [
+      {
+        "abilityId": {
+          "$oid": "6956c8915648a6dce9f6fb41"
+        }
+      },
+      {
+        "abilityId": {
+          "$oid": "6956c8985648a6dce9f6fb49"
+        }
+      },
+      {
+        "abilityId": {
+          "$oid": "6956c89e5648a6dce9f6fb51"
+        }
+      },
+      {
+        "abilityId": {
+          "$oid": "6956c8a75648a6dce9f6fb59"
+        }
+      },
+      {
+        "abilityId": {
+          "$oid": "6956c8b35648a6dce9f6fb61"
+        }
+      },
+      {
+        "abilityId": {
+          "$oid": "6956c8bd5648a6dce9f6fb69"
+        }
+      }
+    ],
+    "spells": {
+      "slots": [],
+      "known": [
+        {
+          "spellId": {
+            "$oid": "6956c8c55648a6dce9f6fb71"
+          },
+          "prepared": false
+        }
+      ]
+    },
+    "inventory": {
+      "weapons": [],
+      "armor": [],
+      "items": []
+    },
+    "legacySourceId": "6956bda2dbca74024f2d9a2e",
+    "createdAt": {
+      "$date": "2026-01-01T19:19:33.946Z"
+    },
+    "updatedAt": {
+      "$date": "2026-01-01T19:19:33.946Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "695410765648a6dce9f6f4e8"
+    },
+    "userId": {
+      "$oid": "694071035648a6dce9f6ec9b"
+    },
+    "name": "BATMAN 2",
+    "slug": "batman-2-476d5feb",
+    "class": "Rogue",
+    "race": "Human",
+    "level": 7,
+    "alignment": "Neutral Good",
+    "icon": "https://statsheet-cdn.b-cdn.net/images/runware-1767116946693.png",
+    "gallery": [],
+    "profile": {
+      "backstory": "Cloaked in myth and half‑truths, BATMAN 2 emerged from a grim metropolis where justice bent under the weight of corruption. A nameless street orphan taken in by an enigmatic order of shadow‑walkers, he learned to fight without being seen and to listen where others spoke too loudly. Now he wanders the world as an unregistered guardian, slipping into cities that need him and vanishing once balance is restored.",
+      "behavior": "He keeps to high vantage points, moves with measured silence, and intervenes only when darkness overtakes the innocent. He prefers intimidation, ambushes, and evidence‑driven justice over open confrontation.",
+      "personality": "Brooding but principled, he speaks in short, weighted sentences. He distrusts institutions but believes strongly in personal responsibility. Beneath the quiet edge is a fierce protective streak, especially for the overlooked."
+    },
+    "attributes": {
+      "str": 12,
+      "dex": 18,
+      "con": 14,
+      "int": 14,
+      "wis": 13,
+      "cha": 10
+    },
+    "hp": {
+      "current": 54,
+      "max": 54
+    },
+    "ac": 17,
+    "initiative": 4,
+    "state": "Vigilant",
+    "isPublic": false,
+    "spells": {
+      "slots": [],
+      "known": []
+    },
+    "inventory": {
+      "weapons": [],
+      "armor": [],
+      "items": []
+    },
+    "temporaryModifiers": [],
+    "passiveTraits": [],
+    "feats": [],
+    "skills": [],
+    "abilities": [],
+    "createdAt": {
+      "$date": "2025-12-30T17:48:38.013Z"
+    },
+    "updatedAt": {
+      "$date": "2025-12-30T17:49:47.752Z"
+    },
+    "__v": 0
+  }
+]

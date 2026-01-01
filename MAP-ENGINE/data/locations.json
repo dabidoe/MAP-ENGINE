@@ -1,0 +1,30 @@
+[
+  {
+    "id": "frozen_vigil",
+    "title": "The Frozen Vigil of Fortitude",
+    "lat": 40.2985, 
+    "lng": -74.8718,
+    "radius": 30,
+    "longDescription": "The Continental Army Camp on the Pennsylvania side. Washington's troops wait in the sleet for the signal to cross.",
+    "tacticalMapUrl": [
+      "/assets/maps/washingtons-camp/the-frozen-vigil-of-fortitude.png",
+      "/assets/maps/washingtons-camp/the-frozen-vigil-of-fortitude (1).png",
+      "/assets/maps/washingtons-camp/the-frozen-vigil-of-fortitude (2).png",
+      "/assets/maps/washingtons-camp/the-frozen-vigil-of-fortitude (3).png"
+    ]
+  },
+  {
+    "id": "trenton_barracks",
+    "title": "Trenton Old Barracks",
+    "lat": 40.2178, 
+    "lng": -74.7680,
+    "radius": 30,
+    "longDescription": "The center of the Hessian defense. A sturdy stone structure serving as a pivotal tactical point.",
+    "tacticalMapUrl": [
+      "/assets/maps/trenton-barracks/the-barracks-of-trenton.png",
+      "/assets/maps/trenton-barracks/the-barracks-of-trenton (1).png",
+      "/assets/maps/trenton-barracks/the-barracks-of-trenton (2).png",
+      "/assets/maps/trenton-barracks/the-barracks-of-trenton (3).png"
+    ]
+  }
+]
