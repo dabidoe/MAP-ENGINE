@@ -1,0 +1,62 @@
+[
+  {
+    "tokenId": "token_gw_001",
+    "characterRef": "6956c8c55648a6dce9f6fb73",
+    "name": "George Washington",
+    "locationId": "frozen_vigil",
+    "lat": 40.2985,
+    "lng": -74.8718,
+    "posX": 20,
+    "posY": 50,
+    "status": "Resolute",
+    "side": "Continental"
+  },
+  {
+    "tokenId": "token_greene_001",
+    "characterRef": "char_greene_gen",
+    "name": "General Nathanael Greene",
+    "locationId": "frozen_vigil",
+    "lat": 40.2984,
+    "lng": -74.8719,
+    "posX": 15,
+    "posY": 45,
+    "status": "Anxious but focused",
+    "side": "Continental"
+  },
+  {
+    "tokenId": "token_batman_001",
+    "characterRef": "695410765648a6dce9f6f4e8",
+    "name": "BATMAN 2",
+    "locationId": "frozen_vigil",
+    "lat": 40.2986,
+    "lng": -74.8717,
+    "posX": 18,
+    "posY": 55,
+    "status": "Vigilant",
+    "side": "Continental"
+  },
+  {
+    "tokenId": "token_baum_001",
+    "characterRef": "char_baum_pal",
+    "name": "Feldwebel Baum",
+    "locationId": "trenton_barracks",
+    "lat": 40.2178,
+    "lng": -74.7680,
+    "posX": 48,
+    "posY": 42,
+    "status": "Alert",
+    "side": "Hessian"
+  },
+  {
+    "tokenId": "token_klaus_001",
+    "characterRef": "char_klaus_fig",
+    "name": "Gefreiter Klaus",
+    "locationId": "trenton_barracks",
+    "lat": 40.2177,
+    "lng": -74.7681,
+    "posX": 75,
+    "posY": 55,
+    "status": "Intoxicated",
+    "side": "Hessian"
+  }
+]

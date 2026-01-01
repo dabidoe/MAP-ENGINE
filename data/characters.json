@@ -1,0 +1,1033 @@
+[
+  {
+    "_id": {
+      "$oid": "6956c8c55648a6dce9f6fb73"
+    },
+    "userId": {
+      "$oid": "691f08ef96b2af2c7f0a183e"
+    },
+    "name": "George Washington",
+    "slug": "george-washington-58cf7",
+    "class": "Paladin",
+    "race": "Human",
+    "level": 12,
+    "alignment": "Neutral Good",
+    "icon": "https://statsheet-cdn.b-cdn.net/images/cf30430c8f8dc04321208a50f8d05e3660c4f566271bda9d3f7f6c70af8d57c2.png",
+    "gallery": [
+      "https://statsheet-cdn.b-cdn.net/images/cf30430c8f8dc04321208a50f8d05e3660c4f566271bda9d3f7f6c70af8d57c2.png",
+      "https://statsheet-cdn.b-cdn.net/images/3636725b-02d6-4ade-8b5f-aa5c117025e4.png",
+      "https://statsheet-cdn.b-cdn.net/images/2e1c3813-dd23-4eba-9a6f-6d5f48fa715c.png",
+      "https://statsheet-cdn.b-cdn.net/images/f871fb2c-d642-4d9e-a1c1-5907a9fa087b.png"
+    ],
+    "profile": {
+      "backstory": "During the Crossing of the Delaware, George Washington, at 44 years old, struggled to keep the Continental Army from dissolving during the 'Times that try men's souls.' His leadership was pivotal in maintaining morale and unity.It is the dead of winter. The enlistments expire in days.",
+      "behavior": "You lead from the front, asking your scouts (the party) for precise details before committing troops. In combat, you use 'Aura of Protection' to keep your men's morale high.You speak with the weight of a nation on your shoulders. You are brief, formal, but deeply concerned for your men. You refer to the party as 'Soldiers' or 'Friends of Liberty.' He says to party \"It is the dead of winter. The enlistments expire in days. If we do not strike Trenton now, the Revolution dies. I am sending you across the river ahead of the main force to silence the Hessian sentries.\"",
+      "personality": "Stoic"
+    },
+    "attributes": {
+      "str": 16,
+      "dex": 12,
+      "con": 14,
+      "int": 13,
+      "wis": 15,
+      "cha": 18
+    },
+    "hp": {
+      "current": 87,
+      "max": 87
+    },
+    "ac": 18,
+    "initiative": 1,
+    "state": "Resolute",
+    "isPublic": false,
+    "temporaryModifiers": [],
+    "passiveTraits": [
+      {
+        "traitId": {
+          "$oid": "6956c8265648a6dce9f6fadf"
+        },
+        "name": "Divine Health",
+        "description": "A quiet glow clings to your spirit, turning back rot and contagion before they take hold. Even foul magic struggles to find purchase. Allies often draw courage from your steady presence.",
+        "summary": "Sacred vigor wards off sickness and miasma, keeping you hale in cursed places.",
+        "icon": "https://statsheet-cdn.b-cdn.net/images/runware-1767295014282.png"
+      },
+      {
+        "traitId": {
+          "$oid": "6956c82e5648a6dce9f6fae7"
+        },
+        "name": "Aura of Protection",
+        "description": "Your presence projects a soft, warding stillness that subtly shifts fortune toward those within arm’s reach. Allies feel danger moments before it strikes, gaining a flicker of extra resilience.",
+        "summary": "A calm, unseen force cushions nearby allies from harm, sharpening reflexes and steadying nerves.",
+        "icon": "https://statsheet-cdn.b-cdn.net/images/runware-1767295022851.png"
+      },
+      {
+        "traitId": {
+          "$oid": "6956c8395648a6dce9f6faef"
+        },
+        "name": "Turn the Tide",
+        "description": "Whenever turmoil breaks around you, allies within reach feel a surge of inner steadiness, gaining a small buffer of resolve. Your quiet certainty becomes their shield. Even dire moments slow when you stand firm.",
+        "summary": "Your calm presence anchors allies, granting them brief resolve when chaos erupts.",
+        "icon": "https://statsheet-cdn.b-cdn.net/images/runware-1767295033495.png"
+      },
+      {
+        "traitId": {
+          "$oid": "6956c8425648a6dce9f6faf7"
+        },
+        "name": "Unyielding Spirit",
+        "description": "Your mind feels like hammered iron, granting small bursts of clarity when danger looms. Once per scene, you may steady yourself to reduce a setback or resist mental strain. Others can sense your quiet, immovable confidence.",
+        "summary": "Your steady heart shrugs off peril and doubt.",
+        "icon": "https://statsheet-cdn.b-cdn.net/images/runware-1767295042825.png"
+      },
+      {
+        "traitId": {
+          "$oid": "6928da435648a6dce9f6e0eb"
+        },
+        "name": "Deity",
+        "description": "You carry a calm, ever-watchful presence, as if some ancient pact urges you to stand firm. Allies sense safety near you, while foes find their ambushes faltering. This vigilance rarely wavers, even in exhaustion.",
+        "summary": "An unshakable sense of duty that keeps you alert, steady, and ready to guard others when danger lurks.",
+        "icon": "https://statsheet-cdn.b-cdn.net/images/runware-1764284995130.png"
+      },
+      {
+        "traitId": {
+          "$oid": "69504a685648a6dce9f6f214"
+        },
+        "name": "Spell Caster Bonus",
+        "description": "An unseen whisper steadies your hand and clarifies incantations, making minor spells strike truer and resonate farther. Allies sometimes feel the hush before your magic flares. Few notice the whisper’s source—and fewer dare ask.",
+        "summary": "Your presence sharpens nearby magic, granting uncanny accuracy to subtle spells.",
+        "icon": "https://statsheet-cdn.b-cdn.net/images/runware-1766869608060.png"
+      },
+      {
+        "traitId": {
+          "$oid": "6956c84b5648a6dce9f6fb01"
+        },
+        "name": "Symbol",
+        "description": "Your presence carries a subtle resonance of long‑won freedom, lending courage to companions and drawing wary attention from oppressive forces. Those nearby feel history pressing at their backs.",
+        "summary": "A quiet aura of rebellion that heartens allies and unsettles tyrants.",
+        "icon": "https://statsheet-cdn.b-cdn.net/images/runware-1767295051117.png"
+      },
+      {
+        "traitId": {
+          "$oid": "6956c8545648a6dce9f6fb09"
+        },
+        "name": "Mount",
+        "description": "You’re never truly alone—your seasoned companion pads beside you, sensing danger and easing long journeys. Its presence grants subtle confidence and softens the harshness of the road.",
+        "summary": "A loyal beast follows you everywhere, offering steady travel and quiet vigilance.",
+        "icon": "https://statsheet-cdn.b-cdn.net/images/runware-1767295060676.png"
+      }
+    ],
+    "feats": [
+      {
+        "featId": {
+          "$oid": "6956c85d5648a6dce9f6fb11"
+        },
+        "name": "Lay on Hands",
+        "description": "You carry a reservoir of luminous vitality that flares to life when you lay your hand upon an injured creature. Once per rest, you may release a portion of this inner radiance to restore health, purge minor ailments, or stabilize a fading ally. The more dire the need, the brighter your spark burns—though drawing too deeply leaves you momentarily light‑headed and warm to the touch.",
+        "summary": "Channel a stored reserve of life‑energy to mend wounds with a touch.",
+        "icon": "https://statsheet-cdn.b-cdn.net/images/runware-1767295069159.png"
+      },
+      {
+        "featId": {
+          "$oid": "6956c8665648a6dce9f6fb19"
+        },
+        "name": "Divine Smite",
+        "description": "You call down a shard of star-fire to lash your weapon strike with blistering brilliance. When you commit to the blow, the attack erupts in radiant power that scars both flesh and spirit, leaving foes dazzled by the afterimage. Creatures struck often feel as though the heavens themselves have judged them.",
+        "summary": "Imbue a weapon blow with searing celestial force.",
+        "icon": "https://statsheet-cdn.b-cdn.net/images/runware-1767295078363.png"
+      },
+      {
+        "featId": {
+          "$oid": "6956c86e5648a6dce9f6fb21"
+        },
+        "name": "Compelled Duel",
+        "description": "You unleash a resonant battle cry or striking gesture that compels a chosen foe to focus on you above all others. For a short time, their attacks and movement skew toward engaging you directly, as though unable to shake your daring provocation. While the effect lasts, you gain a subtle insight into their intent, allowing you to anticipate their next move.",
+        "summary": "You draw an enemy’s attention with a bold challenge they can scarcely ignore.",
+        "icon": "https://statsheet-cdn.b-cdn.net/images/runware-1767295086445.png"
+      },
+      {
+        "featId": {
+          "$oid": "6956c8775648a6dce9f6fb29"
+        },
+        "name": "Champion Challenge",
+        "description": "You utter a radiant oath that flares like a beacon, marking an enemy’s spirit and daring them to confront you. The target feels an intangible pull, finding it difficult to ignore your presence or redirect their aggression. While the vow holds, your stance sharpens, granting you poise and clarity against their strikes.",
+        "summary": "You draw hostile eyes with a blazing vow that compels foes to face you directly.",
+        "icon": "https://statsheet-cdn.b-cdn.net/images/runware-1767295095593.png"
+      },
+      {
+        "featId": {
+          "$oid": "6956c87f5648a6dce9f6fb31"
+        },
+        "name": "Divine Allegiance",
+        "description": "You project a protective aura that snaps into place the moment an ally is threatened. When a nearby companion is targeted by an attack or harmful effect, you may shift the danger onto yourself, drawing the blow or curse with supernatural resolve. This transfer leaves a faint shimmer in the air as though your will alone has bent fate’s trajectory.",
+        "summary": "Interpose your spirit as a shield to spare an ally from harm.",
+        "icon": "https://statsheet-cdn.b-cdn.net/images/runware-1767295103522.png"
+      },
+      {
+        "featId": {
+          "$oid": "6956c8895648a6dce9f6fb39"
+        },
+        "name": "Exalted Champion",
+        "description": "You channel the first light of day into your presence, causing your weapon or voice to shine with subtle brilliance. Once per conflict, when you strike an enemy or raise a rallying cry, nearby allies gain a brief surge of courage, granting them a small bonus to their next action. Enemies sensitive to light or hope hesitate for a heartbeat, giving you a momentary edge. The dawn’s glow lingers on you until the encounter ends.",
+        "summary": "You fight with radiant conviction, bolstering allies as your strikes blaze with renewed purpose.",
+        "icon": "https://statsheet-cdn.b-cdn.net/images/runware-1767295113196.png"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Athletics",
+        "modifier": 7,
+        "proficient": true,
+        "_id": {
+          "$oid": "6956c8c55648a6dce9f6fb74"
+        }
+      },
+      {
+        "name": "Persuasion",
+        "modifier": 8,
+        "proficient": true,
+        "_id": {
+          "$oid": "6956c8c55648a6dce9f6fb75"
+        }
+      },
+      {
+        "name": "Intimidation",
+        "modifier": 8,
+        "proficient": true,
+        "_id": {
+          "$oid": "6956c8c55648a6dce9f6fb76"
+        }
+      },
+      {
+        "name": "History",
+        "modifier": 5,
+        "proficient": false,
+        "_id": {
+          "$oid": "6956c8c55648a6dce9f6fb77"
+        }
+      },
+      {
+        "name": "Perception",
+        "modifier": 6,
+        "proficient": false,
+        "_id": {
+          "$oid": "6956c8c55648a6dce9f6fb78"
+        }
+      }
+    ],
+    "abilities": [
+      {
+        "abilityId": {
+          "$oid": "6956c8915648a6dce9f6fb41"
+        }
+      },
+      {
+        "abilityId": {
+          "$oid": "6956c8985648a6dce9f6fb49"
+        }
+      },
+      {
+        "abilityId": {
+          "$oid": "6956c89e5648a6dce9f6fb51"
+        }
+      },
+      {
+        "abilityId": {
+          "$oid": "6956c8a75648a6dce9f6fb59"
+        }
+      },
+      {
+        "abilityId": {
+          "$oid": "6956c8b35648a6dce9f6fb61"
+        }
+      },
+      {
+        "abilityId": {
+          "$oid": "6956c8bd5648a6dce9f6fb69"
+        }
+      }
+    ],
+    "spells": {
+      "slots": [],
+      "known": [
+        {
+          "spellId": {
+            "$oid": "6956c8c55648a6dce9f6fb71"
+          },
+          "prepared": false
+        }
+      ]
+    },
+    "inventory": {
+      "weapons": [],
+      "armor": [],
+      "items": []
+    },
+    "legacySourceId": "6956bda2dbca74024f2d9a2e",
+    "createdAt": {
+      "$date": "2026-01-01T19:19:33.946Z"
+    },
+    "updatedAt": {
+      "$date": "2026-01-01T19:19:33.946Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "695410765648a6dce9f6f4e8"
+    },
+    "userId": {
+      "$oid": "694071035648a6dce9f6ec9b"
+    },
+    "name": "BATMAN 2",
+    "slug": "batman-2-476d5feb",
+    "class": "Rogue",
+    "race": "Human",
+    "level": 7,
+    "alignment": "Neutral Good",
+    "icon": "https://statsheet-cdn.b-cdn.net/images/runware-1767116946693.png",
+    "gallery": [],
+    "profile": {
+      "backstory": "Cloaked in myth and half‑truths, BATMAN 2 emerged from a grim metropolis where justice bent under the weight of corruption. A nameless street orphan taken in by an enigmatic order of shadow‑walkers, he learned to fight without being seen and to listen where others spoke too loudly. Now he wanders the world as an unregistered guardian, slipping into cities that need him and vanishing once balance is restored.",
+      "behavior": "He keeps to high vantage points, moves with measured silence, and intervenes only when darkness overtakes the innocent. He prefers intimidation, ambushes, and evidence‑driven justice over open confrontation.",
+      "personality": "Brooding but principled, he speaks in short, weighted sentences. He distrusts institutions but believes strongly in personal responsibility. Beneath the quiet edge is a fierce protective streak, especially for the overlooked."
+    },
+    "attributes": {
+      "str": 12,
+      "dex": 18,
+      "con": 14,
+      "int": 14,
+      "wis": 13,
+      "cha": 10
+    },
+    "hp": {
+      "current": 54,
+      "max": 54
+    },
+    "ac": 17,
+    "initiative": 4,
+    "state": "Vigilant",
+    "isPublic": false,
+    "spells": {
+      "slots": [],
+      "known": []
+    },
+    "inventory": {
+      "weapons": [],
+      "armor": [],
+      "items": []
+    },
+    "temporaryModifiers": [],
+    "passiveTraits": [],
+    "feats": [],
+    "skills": [],
+    "abilities": [],
+    "createdAt": {
+      "$date": "2025-12-30T17:48:38.013Z"
+    },
+    "updatedAt": {
+      "$date": "2025-12-30T17:49:47.752Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6956ec655648a6dce9f6fcdd"
+    },
+    "userId": {
+      "$oid": "691f08ef96b2af2c7f0a183e"
+    },
+    "name": "Feldwebel Baum",
+    "slug": "feldwebel-baum-dacec",
+    "class": "Paladin/Fighter",
+    "race": "Human",
+    "level": 8,
+    "alignment": "Neutral Good",
+    "icon": "https://statsheet-cdn.b-cdn.net/images/71a8a921-8ea8-4594-8507-f1de0d34b0bb.png",
+    "gallery": [
+      "https://statsheet-cdn.b-cdn.net/images/71a8a921-8ea8-4594-8507-f1de0d34b0bb.png",
+      "https://statsheet-cdn.b-cdn.net/images/bab27894-5b7b-4fc1-b68f-c05b15676d72.png",
+      "https://statsheet-cdn.b-cdn.net/images/1592953a-d93d-4733-917e-247384929f1b.png",
+      "https://statsheet-cdn.b-cdn.net/images/d2730f3f-290e-49a0-a966-4ce213500dde.png"
+    ],
+    "profile": {
+      "backstory": "Feldwebel Baum, a Hessian Sergeant, has risen through the ranks with iron discipline. As a Level 8 Paladin/Fighter hybrid, he commands respect and fear. His military career is marked by strict adherence to duty, leading his troops with an unyielding hand. His presence in the center of the main room is a testament to his leadership, providing a 'Lead by Example' aura that buffs the AC of nearby Hessian soldiers.",
+      "behavior": "Reviewing a ledger by candlelight, hand resting on his blade, embodying discipline and readiness.",
+      "personality": "Severe"
+    },
+    "attributes": {
+      "str": 16,
+      "dex": 12,
+      "con": 14,
+      "int": 10,
+      "wis": 13,
+      "cha": 15
+    },
+    "hp": {
+      "current": 59,
+      "max": 59
+    },
+    "ac": 19,
+    "initiative": 1,
+    "state": "Alert",
+    "isPublic": true,
+    "temporaryModifiers": [],
+    "passiveTraits": [
+      {
+        "traitId": {
+          "$oid": "6956ebf85648a6dce9f6fc79"
+        },
+        "name": "Lead by Example",
+        "description": "In turmoil, your poise becomes a shield for others. Nearby companions gain subtle protection as your unshakable focus anchors their resolve. Even chaos hesitates before your quiet certainty.",
+        "summary": "Your calm presence steadies allies, granting minor resilience under fire.",
+        "icon": "https://statsheet-cdn.b-cdn.net/images/runware-1767304184168.png"
+      },
+      {
+        "traitId": {
+          "$oid": "6956ec005648a6dce9f6fc81"
+        },
+        "name": "Aura of Devotion",
+        "description": "Your presence emits a warm, unseen glow that anchors companions’ spirits. Those close to you find their minds harder to sway, as if wrapped in quiet reassurance.",
+        "summary": "A soft radiance steadies nearby allies against fear and deceit.",
+        "icon": "https://statsheet-cdn.b-cdn.net/images/runware-1767304192632.png"
+      },
+      {
+        "traitId": {
+          "$oid": "6956e8735648a6dce9f6fba5"
+        },
+        "name": "Second Wind",
+        "description": "Your inner spark flares when danger peaks, knitting wounds with warm, spectral fire. The blaze also clears your thoughts, granting a moment of fierce clarity. This power returns after a short rest.",
+        "summary": "Once per rest, ignite inner spirit to restore modest vitality and briefly sharpen resolve.",
+        "icon": "https://statsheet-cdn.b-cdn.net/images/runware-1767303283571.png"
+      },
+      {
+        "traitId": {
+          "$oid": "6956ec0a5648a6dce9f6fc8a"
+        },
+        "name": "Improved Critical",
+        "description": "Your attacks hum with grim portent; whenever tension rises, even a near‑miss can become a brutal strike. Enemies often learn too late that fortune favors your wrath.",
+        "summary": "Your blows foreshadow carnage, striking with uncanny precision when fate leans your way.",
+        "icon": "https://statsheet-cdn.b-cdn.net/images/runware-1767304202038.png"
+      },
+      {
+        "traitId": {
+          "$oid": "69503e8d5648a6dce9f6efd7"
+        },
+        "name": "Weapon",
+        "description": "Faint arcs dance over your skin, whispering warnings and jolting threats. Nearby creatures hesitate, sensing the air tighten. Once per scene, you may gain advantage on a reflexive check.",
+        "summary": "A crackling mantle of static energy that subtly shifts fate and startles foes.",
+        "icon": "https://statsheet-cdn.b-cdn.net/images/runware-1766866573841.png"
+      },
+      {
+        "traitId": {
+          "$oid": "6956ec115648a6dce9f6fc93"
+        },
+        "name": "Aura Effect",
+        "description": "Your steady focus manifests as a soft, protective pressure in the air. Allies within a few steps gain a slight defensive edge, as if your confidence shields them. Even in chaos, your quiet determination holds the line.",
+        "summary": "Your calm resolve radiates outward, granting nearby allies subtle protection.",
+        "icon": "https://statsheet-cdn.b-cdn.net/images/runware-1767304209761.png"
+      },
+      {
+        "traitId": {
+          "$oid": "6956ec1a5648a6dce9f6fc9b"
+        },
+        "name": "Command Style",
+        "description": "Your serenity holds firm even in chaos, lending quiet courage to allies and denying enemies the satisfaction of rattling you. Once per scene, you may steady another’s resolve with a measured word. Those who face you sense an unsettling, unbreakable patience.",
+        "summary": "Unshakable calm that steadies allies and unnerves foes.",
+        "icon": "https://statsheet-cdn.b-cdn.net/images/runware-1767304219015.png"
+      },
+      {
+        "traitId": {
+          "$oid": "6956ec245648a6dce9f6fca3"
+        },
+        "name": "Location",
+        "description": "Soft echoes trail your steps, occasionally murmuring hints of hidden dangers or intentions. The effect is subtle, never fully reliable, but often unnervingly accurate.",
+        "summary": "Faint whispers cling to you, revealing scraps of nearby truths.",
+        "icon": "https://statsheet-cdn.b-cdn.net/images/runware-1767304228770.png"
+      },
+      {
+        "traitId": {
+          "$oid": "6956ec2f5648a6dce9f6fcab"
+        },
+        "name": "Service Record",
+        "description": "Years of marching through distant conflicts have etched unshakable discipline into you. You rarely falter under pressure, drawing on battle-worn memory to steady allies and unsettle foes. Even peace carries the faint drumbeat of past campaigns.",
+        "summary": "Veteran instincts flare in tense moments, granting cool-headed focus born from long-forgotten wars.",
+        "icon": "https://statsheet-cdn.b-cdn.net/images/runware-1767304239797.png"
+      },
+      {
+        "traitId": {
+          "$oid": "6956ec3d5648a6dce9f6fcb3"
+        },
+        "name": "Military Honors",
+        "description": "Faint echoes of long‑ended conflicts drift through their mind, granting uncanny awareness in tense moments. These ghostly impressions rarely speak plainly but nudge them toward bold or cautious action. Allies find their timing eerie but reliable.",
+        "summary": "Whispers of past battles guide their instincts and steady their resolve.",
+        "icon": "https://statsheet-cdn.b-cdn.net/images/runware-1767304253104.png"
+      }
+    ],
+    "feats": [
+      {
+        "featId": {
+          "$oid": "6956ec455648a6dce9f6fcbb"
+        },
+        "name": "Protection",
+        "description": "When a nearby companion comes under threat, you step into the fray with instinctive precision, turning enemy blows aside with shield, steel, or sheer presence. Once per round, you may impose a hindrance on an attacker targeting an ally within arm’s reach, forcing them to fight through your stalwart defense.",
+        "summary": "You interpose yourself to blunt harm aimed at nearby allies.",
+        "icon": "https://statsheet-cdn.b-cdn.net/images/runware-1767304261546.png"
+      },
+      {
+        "featId": {
+          "$oid": "6956ec4f5648a6dce9f6fcc3"
+        },
+        "name": "Fighting Style (Defense)",
+        "description": "A lifetime of surviving close calls has honed your ability to raise a defense a heartbeat before danger strikes. When you brace yourself, your stance hardens, granting a subtle but reliable boost to your protection as long as you remain vigilant. Even when surprised, your body shifts just enough to lessen incoming harm.",
+        "summary": "Your reflexive guard turns even glancing blows aside.",
+        "icon": "https://statsheet-cdn.b-cdn.net/images/runware-1767304271649.png"
+      },
+      {
+        "featId": {
+          "$oid": "6956c8665648a6dce9f6fb19"
+        },
+        "name": "Divine Smite",
+        "description": "You call down a shard of star-fire to lash your weapon strike with blistering brilliance. When you commit to the blow, the attack erupts in radiant power that scars both flesh and spirit, leaving foes dazzled by the afterimage. Creatures struck often feel as though the heavens themselves have judged them.",
+        "summary": "Imbue a weapon blow with searing celestial force.",
+        "icon": "https://statsheet-cdn.b-cdn.net/images/runware-1767295078363.png"
+      },
+      {
+        "featId": {
+          "$oid": "6928d1b35648a6dce9f6def8"
+        },
+        "name": "Remarkable Athlete",
+        "description": "Your footwork becomes a fluid dance, letting you glide over unstable ground, squeeze through narrow gaps, and pivot out of danger with uncanny ease. Once per rest, you may ignore hindering terrain for a brief moment, treating the world as light and open while you pass through it. Observers often swear you’re carried by a breeze only you can feel.",
+        "summary": "You move with drifting, effortless grace, slipping through tight spaces and terrain as though the air itself yields to you.",
+        "icon": "https://statsheet-cdn.b-cdn.net/images/runware-1764282803458.png"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Intimidation",
+        "modifier": 6,
+        "proficient": true,
+        "_id": {
+          "$oid": "6956ec655648a6dce9f6fcde"
+        }
+      },
+      {
+        "name": "Athletics",
+        "modifier": 6,
+        "proficient": true,
+        "_id": {
+          "$oid": "6956ec655648a6dce9f6fcdf"
+        }
+      },
+      {
+        "name": "Persuasion",
+        "modifier": 4,
+        "proficient": false,
+        "_id": {
+          "$oid": "6956ec655648a6dce9f6fce0"
+        }
+      },
+      {
+        "name": "Perception",
+        "modifier": 3,
+        "proficient": false,
+        "_id": {
+          "$oid": "6956ec655648a6dce9f6fce1"
+        }
+      },
+      {
+        "name": "History",
+        "modifier": 2,
+        "proficient": false,
+        "_id": {
+          "$oid": "6956ec655648a6dce9f6fce2"
+        }
+      }
+    ],
+    "abilities": [
+      {
+        "abilityId": {
+          "$oid": "6956ec565648a6dce9f6fccd"
+        }
+      },
+      {
+        "abilityId": {
+          "$oid": "6956ec605648a6dce9f6fcd5"
+        }
+      },
+      {
+        "abilityId": {
+          "$oid": "6956c8985648a6dce9f6fb49"
+        }
+      },
+      {
+        "abilityId": {
+          "$oid": "6928d1dd5648a6dce9f6df20"
+        }
+      }
+    ],
+    "spells": {
+      "slots": [],
+      "known": []
+    },
+    "inventory": {
+      "weapons": [],
+      "armor": [],
+      "items": []
+    },
+    "legacySourceId": "6956d739dbca74024f2d9b0b",
+    "createdAt": {
+      "$date": "2026-01-01T21:51:33.663Z"
+    },
+    "updatedAt": {
+      "$date": "2026-01-01T22:11:13.036Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6956e9ed5648a6dce9f6fc6b"
+    },
+    "userId": {
+      "$oid": "691f08ef96b2af2c7f0a183e"
+    },
+    "name": "Gefreiter Klaus",
+    "slug": "gefreiter-klaus-0ad61",
+    "class": "Fighter",
+    "race": "Human",
+    "level": 2,
+    "alignment": "Neutral Good",
+    "icon": "https://statsheet-cdn.b-cdn.net/images/f7701349-f5af-421c-9c49-68265512ac82.png",
+    "gallery": [
+      "https://statsheet-cdn.b-cdn.net/images/f7701349-f5af-421c-9c49-68265512ac82.png",
+      "https://statsheet-cdn.b-cdn.net/images/b396aeaf-939a-4dd1-8a22-d78c1ed72320.png",
+      "https://statsheet-cdn.b-cdn.net/images/f8549cda-b829-4590-8856-cfd6fa61b210.png",
+      "https://statsheet-cdn.b-cdn.net/images/6efa307f-3d32-4f76-a4aa-2288e6d1c329.png"
+    ],
+    "profile": {
+      "backstory": "Conscripted from a small farm in Hesse, Klaus has no interest in the American rebellion. He was forced into service and now finds himself guarding the secondary entrance of the Trenton Barracks, often using schnapps to stay warm.",
+      "behavior": "Leaning against a crate, nodding off. Due to his intoxication, Klaus is sluggish and unresponsive, making him less effective in combat.",
+      "personality": "Indifferent"
+    },
+    "attributes": {
+      "str": 14,
+      "dex": 10,
+      "con": 13,
+      "int": 8,
+      "wis": 9,
+      "cha": 11
+    },
+    "hp": {
+      "current": 17,
+      "max": 17
+    },
+    "ac": 10,
+    "initiative": -1,
+    "state": "Intoxicated",
+    "isPublic": true,
+    "temporaryModifiers": [],
+    "passiveTraits": [
+      {
+        "traitId": {
+          "$oid": "6956e9925648a6dce9f6fc11"
+        },
+        "name": "Hardy",
+        "description": "Born under an omen of winter, you carry a subtle heat that buffers you from cold harm. Even in blizzards, your breath stays steady and your fingers sure. Some say the frost itself recognizes you as kin.",
+        "summary": "Your body holds a quiet inner warmth, shrugging off chill winds and icy environments.",
+        "icon": "https://statsheet-cdn.b-cdn.net/images/runware-1767303570589.png"
+      },
+      {
+        "traitId": {
+          "$oid": "6956e99d5648a6dce9f6fc19"
+        },
+        "name": "Drunkard",
+        "description": "Your body never fully sits still, shifting as though caught in a gentle tide. This uncanny motion can unsettle foes but complicates precise actions. Skilled observers struggle to predict your next step.",
+        "summary": "You move in a loose, rolling gait that throws off enemies and allies alike.",
+        "icon": "https://statsheet-cdn.b-cdn.net/images/runware-1767303581030.png"
+      },
+      {
+        "traitId": {
+          "$oid": "6956e9a45648a6dce9f6fc21"
+        },
+        "name": "Unmotivated",
+        "description": "Their mind glides like a quiet breeze, slipping into reverie even in tense moments. They act slowly but spot hidden details others rush past. This calm detachment can steady allies or frustrate them.",
+        "summary": "Often lost in tranquil daydreams, moving at a peaceful, unhurried pace.",
+        "icon": "https://statsheet-cdn.b-cdn.net/images/runware-1767303588995.png"
+      },
+      {
+        "traitId": {
+          "$oid": "6956e9ab5648a6dce9f6fc29"
+        },
+        "name": "Simple Minded",
+        "description": "Your mind drifts like mist—ungraspable yet strangely steady. You resist mental clutter, occasionally glimpsing truths hidden behind noise. In chaotic scenes, you remain eerily focused.",
+        "summary": "Moves through chaos with serene clarity, unfazed by confusion or illusion.",
+        "icon": "https://statsheet-cdn.b-cdn.net/images/runware-1767303595560.png"
+      },
+      {
+        "traitId": {
+          "$oid": "6956e9b15648a6dce9f6fc31"
+        },
+        "name": "Stout",
+        "description": "Years of punishing labor left your muscles dense and your endurance uncanny. You recover from blows faster than most and stay standing long after others drop.",
+        "summary": "Your body shrugs off bruises and fatigue, hardened by brutal seasons of toil.",
+        "icon": "https://statsheet-cdn.b-cdn.net/images/runware-1767303601711.png"
+      },
+      {
+        "traitId": {
+          "$oid": "6928dce95648a6dce9f6e2c3"
+        },
+        "name": "Favorite Drink",
+        "description": "Your tongue tingles when storms brew, letting you predict changes hours ahead. Travelers prize your uncanny forecasts, though the gift sometimes brings uneasy visions.",
+        "summary": "Senses shifts in the air, tasting incoming weather on the tongue.",
+        "icon": "https://statsheet-cdn.b-cdn.net/images/runware-1764285673496.png"
+      },
+      {
+        "traitId": {
+          "$oid": "6956e9bb5648a6dce9f6fc3a"
+        },
+        "name": "Home",
+        "description": "Your presence evokes the warmth and security of a place once loved, granting subtle calm to companions and softening the edge of fear. In ancient ruins or wild frontiers, this quiet resonance steadies hearts. Even enemies may hesitate under its gentle familiarity.",
+        "summary": "A comforting aura that recalls a long‑forgotten homestead, steadying allies in tense moments.",
+        "icon": "https://statsheet-cdn.b-cdn.net/images/runware-1767303611397.png"
+      },
+      {
+        "traitId": {
+          "$oid": "69503e8d5648a6dce9f6efd7"
+        },
+        "name": "Weapon",
+        "description": "Faint arcs dance over your skin, whispering warnings and jolting threats. Nearby creatures hesitate, sensing the air tighten. Once per scene, you may gain advantage on a reflexive check.",
+        "summary": "A crackling mantle of static energy that subtly shifts fate and startles foes.",
+        "icon": "https://statsheet-cdn.b-cdn.net/images/runware-1766866573841.png"
+      },
+      {
+        "traitId": {
+          "$oid": "6956e9c45648a6dce9f6fc43"
+        },
+        "name": "Combat Style",
+        "description": "Your steps drift like you're following distant tides, making foes misjudge your openings. When patience pays off, your delayed strikes land with startling precision.",
+        "summary": "Moves in slow, deliberate arcs, striking with uncanny timing.",
+        "icon": "https://statsheet-cdn.b-cdn.net/images/runware-1767303620948.png"
+      },
+      {
+        "traitId": {
+          "$oid": "6956e9cd5648a6dce9f6fc4b"
+        },
+        "name": "Morale",
+        "description": "This character remains unnervingly calm even as danger escalates, anchoring themselves and those nearby. Their steady presence can steady a wavering group or blunt fear effects. Enemies often underestimate their quiet determination.",
+        "summary": "Unshaken resolve that keeps the character focused under pressure, resisting panic and rallying allies with quiet certainty.",
+        "icon": "https://statsheet-cdn.b-cdn.net/images/runware-1767303629216.png"
+      },
+      {
+        "traitId": {
+          "$oid": "6956e9d65648a6dce9f6fc53"
+        },
+        "name": "Duty Station",
+        "description": "This character maintains a calm, watchful stillness that rarely wavers. Their vigilance makes them the first to notice subtle shifts in mood or movement. Allies often forget they're there—until it matters.",
+        "summary": "Stands unwavering in danger, alert to threats others miss.",
+        "icon": "https://statsheet-cdn.b-cdn.net/images/runware-1767303638080.png"
+      }
+    ],
+    "feats": [
+      {
+        "featId": {
+          "$oid": "6928d1a15648a6dce9f6dee8"
+        },
+        "name": "Second Wind",
+        "description": "Once per rest, you channel the tempest within your spirit to reclaim your strength. Crackling energy knits wounds and steadies your stance, restoring a surge of vitality in a flash. Nearby air stirs as if acknowledging your renewed determination.",
+        "summary": "You call on the wild pulse of the storm to rapidly restore your vitality.",
+        "icon": "https://statsheet-cdn.b-cdn.net/images/runware-1764282785695.png"
+      },
+      {
+        "featId": {
+          "$oid": "6956e9df5648a6dce9f6fc5c"
+        },
+        "name": "Fighting Style",
+        "description": "You have learned to weave subtle warding sigils into the flow of your coat or cloak. When you move at least a few steps or make a dramatic flourish, a brief shell of static energy clings to the fabric, granting you a momentary surge of protection against incoming harm. The effect dissipates quickly unless you keep moving, encouraging a mobile, swashbuckling style.",
+        "summary": "Your sweeping cloak crackles with protective force when danger nears.",
+        "icon": "https://statsheet-cdn.b-cdn.net/images/runware-1767303647251.png"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Athletics",
+        "modifier": 4,
+        "proficient": false,
+        "_id": {
+          "$oid": "6956e9ed5648a6dce9f6fc6c"
+        }
+      },
+      {
+        "name": "Intimidation",
+        "modifier": 2,
+        "proficient": false,
+        "_id": {
+          "$oid": "6956e9ed5648a6dce9f6fc6d"
+        }
+      },
+      {
+        "name": "Survival",
+        "modifier": 1,
+        "proficient": false,
+        "_id": {
+          "$oid": "6956e9ed5648a6dce9f6fc6e"
+        }
+      },
+      {
+        "name": "Perception",
+        "modifier": -1,
+        "proficient": false,
+        "_id": {
+          "$oid": "6956e9ed5648a6dce9f6fc6f"
+        }
+      },
+      {
+        "name": "Animal Handling",
+        "modifier": -1,
+        "proficient": false,
+        "_id": {
+          "$oid": "6956e9ed5648a6dce9f6fc70"
+        }
+      }
+    ],
+    "abilities": [
+      {
+        "abilityId": {
+          "$oid": "6928d1cb5648a6dce9f6df10"
+        }
+      },
+      {
+        "abilityId": {
+          "$oid": "6956e9e65648a6dce9f6fc65"
+        }
+      }
+    ],
+    "spells": {
+      "slots": [],
+      "known": []
+    },
+    "inventory": {
+      "weapons": [],
+      "armor": [],
+      "items": []
+    },
+    "legacySourceId": "6956d705dbca74024f2d9af3",
+    "createdAt": {
+      "$date": "2026-01-01T21:41:01.955Z"
+    },
+    "updatedAt": {
+      "$date": "2026-01-01T22:11:34.804Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6956e8de5648a6dce9f6fc04"
+    },
+    "userId": {
+      "$oid": "691f08ef96b2af2c7f0a183e"
+    },
+    "name": "General Nathanael Greene",
+    "slug": "general-nathanael-greene-5d586",
+    "class": "Fighter",
+    "race": "Human",
+    "level": 9,
+    "alignment": "Neutral Good",
+    "icon": "https://statsheet-cdn.b-cdn.net/images/32ce61a3-6e54-42e0-b508-aa5e0dde1fc3.png",
+    "gallery": [
+      "https://statsheet-cdn.b-cdn.net/images/32ce61a3-6e54-42e0-b508-aa5e0dde1fc3.png",
+      "https://statsheet-cdn.b-cdn.net/images/a849fb51-7e82-4a70-835e-61227da20621.png",
+      "https://statsheet-cdn.b-cdn.net/images/80344afc-4766-448c-83e3-e65eca264898.png",
+      "https://statsheet-cdn.b-cdn.net/images/ee09b510-eb63-416f-9214-da2716cf1590.png"
+    ],
+    "profile": {
+      "backstory": "A former Quaker who took up arms for liberty, General Nathanael Greene has risen to prominence in the Continental Army. His strategic mind has been crucial in several campaigns, always aiming to minimize casualties while maximizing effectiveness.",
+      "behavior": "He focuses on logistics and flanking maneuvers, valuing the lives of his scouts. He warns them of the Hessian's disciplined fire. In combat, he uses 'Commander's Strike' to let the party take extra actions.",
+      "personality": "Analytical"
+    },
+    "attributes": {
+      "str": 16,
+      "dex": 14,
+      "con": 15,
+      "int": 18,
+      "wis": 13,
+      "cha": 12
+    },
+    "hp": {
+      "current": 66,
+      "max": 66
+    },
+    "ac": 16,
+    "initiative": 2,
+    "state": "Anxious but focused",
+    "isPublic": false,
+    "temporaryModifiers": [],
+    "passiveTraits": [
+      {
+        "traitId": {
+          "$oid": "6956e8735648a6dce9f6fba5"
+        },
+        "name": "Second Wind",
+        "description": "Your inner spark flares when danger peaks, knitting wounds with warm, spectral fire. The blaze also clears your thoughts, granting a moment of fierce clarity. This power returns after a short rest.",
+        "summary": "Once per rest, ignite inner spirit to restore modest vitality and briefly sharpen resolve.",
+        "icon": "https://statsheet-cdn.b-cdn.net/images/runware-1767303283571.png"
+      },
+      {
+        "traitId": {
+          "$oid": "6956e87c5648a6dce9f6fbad"
+        },
+        "name": "Know Your Enemy",
+        "description": "A quiet intuition lets you notice the tiniest hitch in an enemy’s stance. This flash of perception can guide your next move or warn allies. Works best against overconfident opponents.",
+        "summary": "Sense subtle flaws in foes, granting momentary tactical insight.",
+        "icon": "https://statsheet-cdn.b-cdn.net/images/runware-1767303292355.png"
+      },
+      {
+        "traitId": {
+          "$oid": "6928dcd55648a6dce9f6e2b3"
+        },
+        "name": "Evasion",
+        "description": "Your body reacts before thought, slipping between moments to evade destructive force. Once per perilous encounter, you may treat a failed agility-based defense as a partial success. Enemies soon learn why you're never where they strike.",
+        "summary": "When danger erupts, you blur aside, turning near-certain harm into harmless wind.",
+        "icon": "https://statsheet-cdn.b-cdn.net/images/runware-1764285653884.png"
+      },
+      {
+        "traitId": {
+          "$oid": "6956e8875648a6dce9f6fbb6"
+        },
+        "name": "Campaigns Led",
+        "description": "Your presence carries the weight of storied wins, subtly boosting resolve in tense moments. When pressure rises, allies sense your quiet certainty. Even enemies hesitate at the echo of your renown.",
+        "summary": "Past triumphs bolster allies’ morale when you quietly recall the battles that shaped you.",
+        "icon": "https://statsheet-cdn.b-cdn.net/images/runware-1767303303941.png"
+      },
+      {
+        "traitId": {
+          "$oid": "6956e8905648a6dce9f6fbbe"
+        },
+        "name": "Notable Victory",
+        "description": "You once overcame impossible odds, and the memory still radiates strength. Companions feel steadier in your presence, sensing the echo of that victory. Even foes hesitate at your unwavering resolve.",
+        "summary": "Your past win inspires allies, granting brief surges of courage when danger rises.",
+        "icon": "https://statsheet-cdn.b-cdn.net/images/runware-1767303312860.png"
+      },
+      {
+        "traitId": {
+          "$oid": "6956e8995648a6dce9f6fbc6"
+        },
+        "name": "Respect for Life",
+        "description": "The character feels a soft, guiding pull toward preservation, often stepping between danger and the innocent. This instinct can stay their hand in combat, urging nonlethal solutions. Even hardened foes may sense their reluctance to kill.",
+        "summary": "Instinctively shields the vulnerable, hesitating only long enough to spare a life.",
+        "icon": "https://statsheet-cdn.b-cdn.net/images/runware-1767303321831.png"
+      },
+      {
+        "traitId": {
+          "$oid": "6956e8a35648a6dce9f6fbce"
+        },
+        "name": "Motto",
+        "description": "You face turmoil with a soldier’s poise, shrugging off fear and doubt. Your steadiness helps companions regroup when morale falters. Even in dire moments, your presence anchors the line.",
+        "summary": "Unshakable calm steadies you amid chaos, lending quiet strength to allies.",
+        "icon": "https://statsheet-cdn.b-cdn.net/images/runware-1767303331865.png"
+      }
+    ],
+    "feats": [
+      {
+        "featId": {
+          "$oid": "6956e8ad5648a6dce9f6fbd6"
+        },
+        "name": "Commander's Strike",
+        "description": "With a sharp command or a guttural battle cry, you expose a fleeting weakness in an enemy’s guard. One ally who can hear you may immediately exploit the moment with a decisive attack or maneuver. Even if the blow misses, your guidance leaves the foe off-balance and vulnerable.",
+        "summary": "Call out an opening that lets an ally strike with sudden precision.",
+        "icon": "https://statsheet-cdn.b-cdn.net/images/runware-1767303341136.png"
+      },
+      {
+        "featId": {
+          "$oid": "6956e8b45648a6dce9f6fbde"
+        },
+        "name": "Evasive Footwork",
+        "description": "You flow across the battlefield with effortless grace, leaving attackers swinging at empty air. When you move at least a short distance on your turn, you gain a brief surge of evasive momentum that makes incoming blows falter. Observers see only a streak of motion where you once stood.",
+        "summary": "Your movements blur into swift arcs that make you harder to strike.",
+        "icon": "https://statsheet-cdn.b-cdn.net/images/runware-1767303348456.png"
+      },
+      {
+        "featId": {
+          "$oid": "6956e8bb5648a6dce9f6fbe6"
+        },
+        "name": "Riposte",
+        "description": "When an enemy’s swing cuts only through air, you draw on a flicker of otherworldly momentum—your blade blurs, leaving a brief afterimage as you strike back in the same heartbeat. This counterattack seems to originate from where you stood a moment before, unnerving foes who rely on predictable motion.",
+        "summary": "Turn a foe’s failed strike into a flashing, spectral counterattack.",
+        "icon": "https://statsheet-cdn.b-cdn.net/images/runware-1767303355578.png"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Athletics",
+        "modifier": 7,
+        "proficient": false,
+        "_id": {
+          "$oid": "6956e8de5648a6dce9f6fc05"
+        }
+      },
+      {
+        "name": "History",
+        "modifier": 8,
+        "proficient": true,
+        "_id": {
+          "$oid": "6956e8de5648a6dce9f6fc06"
+        }
+      },
+      {
+        "name": "Insight",
+        "modifier": 5,
+        "proficient": true,
+        "_id": {
+          "$oid": "6956e8de5648a6dce9f6fc07"
+        }
+      },
+      {
+        "name": "Intimidation",
+        "modifier": 5,
+        "proficient": false,
+        "_id": {
+          "$oid": "6956e8de5648a6dce9f6fc08"
+        }
+      },
+      {
+        "name": "Persuasion",
+        "modifier": 5,
+        "proficient": false,
+        "_id": {
+          "$oid": "6956e8de5648a6dce9f6fc09"
+        }
+      }
+    ],
+    "abilities": [
+      {
+        "abilityId": {
+          "$oid": "6956e8c25648a6dce9f6fbee"
+        }
+      },
+      {
+        "abilityId": {
+          "$oid": "6956e8cc5648a6dce9f6fbf6"
+        }
+      },
+      {
+        "abilityId": {
+          "$oid": "6956e8d65648a6dce9f6fbfe"
+        }
+      }
+    ],
+    "spells": {
+      "slots": [],
+      "known": []
+    },
+    "inventory": {
+      "weapons": [],
+      "armor": [],
+      "items": []
+    },
+    "legacySourceId": "6956bdbfdbca74024f2d9a3a",
+    "createdAt": {
+      "$date": "2026-01-01T21:36:30.145Z"
+    },
+    "updatedAt": {
+      "$date": "2026-01-01T21:36:30.145Z"
+    },
+    "__v": 0
+  }
+]

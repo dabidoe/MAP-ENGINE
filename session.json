@@ -1,0 +1,28 @@
+{
+  "characters": [
+    {
+      "characterId": "wash_1776",
+      "name": "George Washington",
+      "lat": 40.21650439316211,
+      "lng": -74.76077467203142,
+      "icon": "https://statsheet-cdn.b-cdn.net/images/runware-1767116946693.png"
+    },
+    {
+      "characterId": "batman_02",
+      "name": "Batman",
+      "lat": 40.22,
+      "lng": -74.755,
+      "icon": "https://statsheet-cdn.b-cdn.net/images/batman-token.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "trenton_barracks",
+      "title": "Trenton Old Barracks",
+      "lat": 40.2178,
+      "lng": -74.768,
+      "radius": 100,
+      "tacticalMapUrl": "https://statsheet-cdn.b-cdn.net/images/trenton-tactical-v1.png"
+    }
+  ]
+}
